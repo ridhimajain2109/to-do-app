@@ -1,0 +1,118 @@
+.heading-task{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    font-style: bold;
+    color: black;
+    display: inline-block;
+ 
+    margin-top:50px;
+    margin-left: 50px;
+    margin-bottom: 2px;
+    letter-spacing: 1px;
+}
+
+.lists{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    color: black;
+    display: inline-block; 
+   
+    font-size: 40px;
+    margin-left: 5px;
+    letter-spacing: 1px;
+
+}
+/*.div1{
+    margin-top: 100px;
+    margin-left:50px;
+}*/
+
+.add-list {
+   margin-left: 200px;
+    display: inline;
+    color: brown;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+
+}
+.fas{
+    color: brown;
+    
+}
+.fas:hover{
+    color: orange;
+}
+.add{
+    display: inline;
+    color: black;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    margin-left: 5px;
+    letter-spacing: 1px;
+
+}
+
+.padding{
+    margin-top: 100px;
+    margin-right: 350px;
+    margin-left: 350px;
+    margin-bottom: 200px;
+    
+    
+}
+
+
+.container {
+    display: flex;
+    align-items: top;
+    justify-content: space-evenly;
+    flex-direction: row;
+    margin-top: 2px;
+   
+    
+    height: 400px;
+    
+    
+}
+.card1{
+    width: 30%;
+    border-radius: 12px;
+    border: 1px solid black;
+    text-align:center;
+    margin-left: 10px;
+    height: 300px;
+    box-shadow: 2px 2px 1px 2px gray;
+
+}
+.card2{
+    width: 30%;
+    border-radius: 12px;
+    border: 1px solid black;
+    text-align:center;
+    margin-left: 10px;
+    height: 300px;
+    box-shadow: 2px 2px 1px 2px gray;
+}
+.card3{
+    width: 30%;
+    border-radius: 12px;
+    border: 1px solid black;
+    text-align:center;
+    margin-left: 10px;
+    height: 300px;
+    box-shadow: 2px 2px 1px 2px gray;
+}
+.card1-1{
+
+    margin-left:50px;
+    color: brown;
+    font-style: bold;
+    font-size: 20px;
+}
+.del{
+    color: brown;
+    font-size: 20px;
+}
+
+
